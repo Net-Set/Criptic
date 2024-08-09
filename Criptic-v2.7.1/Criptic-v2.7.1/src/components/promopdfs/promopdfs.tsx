@@ -14,15 +14,19 @@ type LinksByCategory = {
 };
 const linksByCategory: LinksByCategory = {
   X3: [
-    { title: "RonX X3 presentation English pdf", url: "/ronx_ppt_x3.pdf" },
+    { title: "RonX X3  English pdf", url: "/ronx_ppt_x3.pdf" },
   
   ],
   X4: [
-    { title: "RonX X4 presentation English pdf", url: "/RonX_ppt_x4.pdf" },
+    { title: "RonX X4 English pdf", url: "/RonX_ppt_x4.pdf" },
    
   ],
-  Presentations: [
-    { title: "RonX business presentation English pdf", url: "/Ronx_Presentation.pdf" },
+  Presentations_x3: [
+    { title: "RonX x3  Presentation English pdf", url: "/Ronx_Presentation_x3.pdf" },
+    
+  ],
+  Presentations_x4: [
+    { title: "RonX x4 Presentation English pdf", url: "/Ronx_Presentation_x4.pdf" },
     
   ],
 };
